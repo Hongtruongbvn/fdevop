@@ -1,0 +1,17 @@
+# Placeholder Image
+# This file serves as a placeholder for product images
+# In production, replace this with actual product images
+
+# You can add placeholder images by:
+# 1. Creating images in client/public/images/ folder
+# 2. Using external image services like Unsplash, Pexels
+# 3. Using placeholder services like https://via.placeholder.com/
+
+# Example structure:
+# client/public/images/
+#   - products/
+#     - electronics/
+#     - clothing/
+#     - books/
+#   - categories/
+#   - logos/ 
